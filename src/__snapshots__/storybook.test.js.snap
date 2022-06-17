@@ -46,7 +46,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -95,7 +95,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -144,7 +144,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -193,7 +193,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -402,7 +402,7 @@ exports[`Storyshots Task Archived 1`] = `
       readOnly={true}
       style={
         Object {
-          "background": "red",
+          "background": "blue",
         }
       }
       type="text"
@@ -444,7 +444,7 @@ exports[`Storyshots Task Default 1`] = `
       readOnly={true}
       style={
         Object {
-          "background": "red",
+          "background": "blue",
         }
       }
       type="text"
@@ -496,7 +496,7 @@ exports[`Storyshots Task Pinned 1`] = `
       readOnly={true}
       style={
         Object {
-          "background": "red",
+          "background": "blue",
         }
       }
       type="text"
@@ -559,7 +559,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -608,7 +608,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -657,7 +657,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -706,7 +706,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -755,7 +755,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -804,7 +804,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -1050,7 +1050,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -1099,7 +1099,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -1148,7 +1148,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -1197,7 +1197,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -1246,7 +1246,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
@@ -1295,7 +1295,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "background": "red",
+              "background": "blue",
             }
           }
           type="text"
