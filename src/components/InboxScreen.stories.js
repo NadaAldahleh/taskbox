@@ -23,9 +23,6 @@ export default {
 const Template = () => <InboxScreen />;
 
 export const Default = Template.bind({});
-Default.args = {
-  with: 'props',
-};
 Default.parameters = {
   msw: {
     handlers: [
@@ -37,7 +34,6 @@ Default.parameters = {
       ),
     ],
   },
-  chromatic: { viewports: [320, 1200] },
 };
 
 export const Error = Template.bind({});
